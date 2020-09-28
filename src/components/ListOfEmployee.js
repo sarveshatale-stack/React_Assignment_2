@@ -9,11 +9,11 @@ function ListOfEmployee() {
   return (
     <div>
       <table id="listtable" style={mystyle}>
-        <tr className="listtable">
+        <tr>
           <th>Name</th>
           <th>Job</th>
         </tr>
-        <tr className="listtable">
+        <tr>
           <td>Charlie</td>
           <td>Janitor</td>
         </tr>
